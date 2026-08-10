@@ -14,7 +14,7 @@ export const Route = createRootRoute({
         content: 'width=device-width, initial-scale=1',
       },
       {
-        title: 'ROOTIVE — Research to product',
+        title: 'Rootive — Beyond Greenery',
       },
       {
         name: 'description',

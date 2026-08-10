@@ -11,7 +11,7 @@
 - 주요 방문자: 협력사, 지원기관, 잠재 사용자, 학생 창업 생태계 관계자
 - 핵심 메시지: **연구의 가능성을, 삶에 닿는 제품으로.**
 - 영문 메시지: **From research potential to products that matter.**
-- 대표 연락처: `about@rootive.org`
+- 대표 연락처: `board@rootive.org`
 - 기본 도메인: `rootive.org`
 - 기본 언어: 한국어
 - 지원 언어: 한국어, 영어
@@ -96,7 +96,7 @@ Rootive is a student-founded venture team from GIST and KAIST. We turn possibili
 
 ## 5. 링크
 
-- 대표 이메일: [about@rootive.org](mailto:about@rootive.org)
+- 대표 이메일: [board@rootive.org](mailto:board@rootive.org)
 - 프로젝트 GitHub: [freaksemicolon/MyGarden](https://github.com/freaksemicolon/MyGarden)
 
 공식 팀 소셜 계정은 확인되지 않아 임의로 만들거나 연결하지 않았습니다.

@@ -13,14 +13,14 @@ export const Route = createFileRoute('/$locale')({
     const isEnglish = locale === 'en'
     return {
       meta: [
-        { title: isEnglish ? 'ROOTIVE — Research to product' : '루티브 — 연구의 가능성을 제품으로' },
+        { title: 'Rootive — Beyond Greenery' },
         {
           name: 'description',
           content: isEnglish
             ? 'Rootive is a student-founded venture team turning research potential into products that matter.'
             : '루티브는 연구의 가능성을 실제 사용자의 삶에 닿는 제품으로 확장하는 대학생 예비창업팀입니다.',
         },
-        { property: 'og:title', content: isEnglish ? 'ROOTIVE — Research to product' : '루티브 — 연구의 가능성을 제품으로' },
+        { property: 'og:title', content: 'Rootive — Beyond Greenery' },
         { property: 'og:description', content: copy[locale].hero.description },
         { property: 'og:url', content: `https://rootive.org/${locale}` },
       ],

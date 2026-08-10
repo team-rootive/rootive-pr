@@ -104,9 +104,12 @@ export function SiteShell({ locale }: { locale: Locale }) {
           </div>
         </div>
         <div className="shell footer-bottom">
-          <div className="footer-brand">
-            <img className="footer-logo" src="/rootive-wordmark-white.svg" alt="ROOTIVE" />
-            <span>{t.footer.tagline}</span>
+          <div className="footer-brand-block">
+            <div className="footer-brand">
+              <img className="footer-logo" src="/rootive-wordmark-white.svg" alt="ROOTIVE" />
+              <span>{t.footer.tagline}</span>
+            </div>
+            <p className="footer-address">{t.footer.address}</p>
           </div>
           <div className="footer-links" aria-label={t.footer.related}>
             {links.map((link) => (

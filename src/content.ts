@@ -16,7 +16,7 @@ export const copy = {
       contact: '문의',
     },
     hero: {
-      eyebrow: 'ROOTIVE · STUDENT-FOUNDED PRODUCT TEAM',
+      eyebrow: 'TEAM ROOTIVE',
       title: '연구의 가능성을,\n삶에 닿는 제품으로.',
       description:
         '루티브는 GIST와 KAIST의 학부생들이 함께하는 예비창업팀입니다. 연구에서 발견한 가능성을 실제 사용자의 문제를 해결하는 제품으로 확장합니다.',
@@ -74,10 +74,11 @@ export const copy = {
       title: '함께 만들 다음 가능성을\n기다리고 있습니다.',
       body: '기술 협력, PoC, 프로젝트와 파트너십에 관한 이야기를 나누고 싶다면 편하게 연락해 주세요.',
       cta: '이메일 보내기',
-      email: 'about@rootive.org',
+      email: 'board@rootive.org',
     },
     footer: {
       tagline: 'Beyond Greenery: We Root Your World',
+      address: '전남광주통합특별시 첨단과기로 123, 광주과학기술원 창업진흥센터 B동 102호',
       copyright: 'ROOTIVE. All rights reserved.',
       related: 'Links',
     },
@@ -154,10 +155,12 @@ export const copy = {
       title: 'We are ready for\nthe next possibility.',
       body: 'Reach out to talk about technical collaboration, proof-of-concept projects, or partnerships.',
       cta: 'Send an email',
-      email: 'about@rootive.org',
+      email: 'board@rootive.org',
     },
     footer: {
       tagline: 'Beyond Greenery: We Root Your World',
+      address:
+        'Room 102, Building B, GIST Startup Promotion Center, 123 Cheomdangwagi-ro, Gwangju, Korea',
       copyright: 'ROOTIVE. All rights reserved.',
       related: 'Links',
     },
@@ -380,7 +383,7 @@ export const team: TeamMember[] = [
 ]
 
 export const links = [
-  { label: 'Email', href: 'mailto:about@rootive.org', type: 'email' as const },
+  { label: 'Email', href: 'mailto:board@rootive.org', type: 'email' as const },
   { label: 'GitHub', href: 'https://github.com/freaksemicolon/MyGarden', type: 'github' as const },
 ]
 

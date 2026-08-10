@@ -440,7 +440,8 @@ summary:focus-visible {
   position: relative;
   z-index: 2;
   display: flex;
-  align-items: center;
+  flex-direction: column;
+  align-items: flex-start;
   gap: 15px;
   padding-top: 20px;
   color: var(--ink-soft);
@@ -451,16 +452,16 @@ summary:focus-visible {
 
 .hero-scroll i {
   display: block;
-  width: 72px;
-  height: 1px;
+  width: 1px;
+  height: 72px;
   overflow: hidden;
   background: var(--line);
 }
 
 .hero-scroll i::after {
   display: block;
-  width: 50%;
-  height: 100%;
+  width: 100%;
+  height: 50%;
   background: var(--forest);
   content: "";
   animation: scroll-line 2s ease-in-out infinite;
@@ -471,8 +472,8 @@ summary:focus-visible {
 }
 
 @keyframes scroll-line {
-  0% { transform: translateX(-110%); }
-  100% { transform: translateX(220%); }
+  0% { transform: translateY(-110%); }
+  100% { transform: translateY(220%); }
 }
 
 .section,
@@ -1038,6 +1039,13 @@ summary:focus-visible {
   border-top: 1px solid var(--white-line);
 }
 
+.footer-brand-block {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  min-width: 0;
+}
+
 .footer-brand {
   display: flex;
   align-items: center;
@@ -1054,6 +1062,14 @@ summary:focus-visible {
   margin-left: 12px;
   color: rgba(255, 255, 255, 0.48);
   font-size: 12px;
+}
+
+.footer-address {
+  max-width: 42ch;
+  margin: 0;
+  color: rgba(255, 255, 255, 0.42);
+  font-size: 12px;
+  line-height: 1.55;
 }
 
 .footer-links {
