@@ -316,7 +316,7 @@ export const team: TeamMember[] = [
   {
     name: { ko: '김기용', en: 'Giyong Kim' },
     role: { ko: 'CPO · 재무 및 운영', en: 'CPO · Finance & Operations' },
-    affiliation: { ko: 'GIST AI융합학과', en: 'GIST · AI Convergence' },
+    affiliation: { ko: 'GIST AI학과', en: 'GIST · Department of AI' },
     group: 'leadership',
     initials: 'GK',
     emails: ['kim_giyong@gm.gist.ac.kr'],
@@ -375,7 +375,7 @@ export const team: TeamMember[] = [
   {
     name: { ko: '류동헌', en: 'Dongheon Ryu' },
     role: { ko: 'Junior Engineer', en: 'Junior Engineer' },
-    affiliation: { ko: 'GIST AI융합학과', en: 'GIST · AI Convergence' },
+    affiliation: { ko: 'GIST AI학과', en: 'GIST · Department of AI' },
     group: 'project',
     initials: 'DR',
     emails: ['ryudong888@gm.gist.ac.kr'],
