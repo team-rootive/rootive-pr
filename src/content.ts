@@ -67,7 +67,7 @@ export const copy = {
       viewAll: '팀 전체 보기',
       members: '팀원',
       leadership: '리더십',
-      contributors: '프로젝트 팀',
+      contributors: 'Club Rootive',
     },
     contact: {
       label: 'LET’S BUILD TOGETHER',
@@ -148,7 +148,7 @@ export const copy = {
       viewAll: 'Meet everyone',
       members: 'members',
       leadership: 'Leadership',
-      contributors: 'Project team',
+      contributors: 'Club Rootive',
     },
     contact: {
       label: 'LET’S BUILD TOGETHER',
@@ -284,16 +284,8 @@ export interface TeamMember {
 
 export const team: TeamMember[] = [
   {
-    name: { ko: '김연주', en: 'Yeonju Kim' },
-    role: { ko: 'CEO · 기획 및 운영', en: 'CEO · Strategy & Operations' },
-    affiliation: { ko: 'GIST 전기전자컴퓨터공학과', en: 'GIST · EECS' },
-    group: 'leadership',
-    initials: 'YK',
-    emails: ['minuri34@gm.gist.ac.kr'],
-  },
-  {
     name: { ko: '임정훈', en: 'Jeonghoon Lim' },
-    role: { ko: 'COO · PM 및 운영·대외협력', en: 'COO · PM, Operations & External Relations' },
+    role: { ko: '대표이사 (CEO)', en: 'CEO' },
     affiliation: { ko: 'GIST 전기전자컴퓨터공학과', en: 'GIST · EECS' },
     group: 'leadership',
     initials: 'JL',
@@ -306,7 +298,7 @@ export const team: TeamMember[] = [
   },
   {
     name: { ko: '최재원', en: 'Jaewon Choi' },
-    role: { ko: 'CSO · 사업개발', en: 'CSO · Business Development' },
+    role: { ko: '대표이사 (CEO)', en: 'CEO' },
     affiliation: { ko: 'GIST 전기전자컴퓨터공학과', en: 'GIST · EECS' },
     group: 'leadership',
     initials: 'JC',
@@ -315,7 +307,7 @@ export const team: TeamMember[] = [
   },
   {
     name: { ko: '김기용', en: 'Giyong Kim' },
-    role: { ko: 'CPO · 재무 및 운영', en: 'CPO · Finance & Operations' },
+    role: { ko: '사내이사 (COO) · 재무 및 운영 기획', en: 'COO · Finance & Operations Planning' },
     affiliation: { ko: 'GIST AI학과', en: 'GIST · Department of AI' },
     group: 'leadership',
     initials: 'GK',
@@ -323,10 +315,26 @@ export const team: TeamMember[] = [
     links: [{ label: 'GitHub', url: 'https://github.com/kky0824', type: 'github' }],
   },
   {
-    name: { ko: '장석우', en: 'Seokwoo Jang' },
-    role: { ko: 'CTO · 제품 개발', en: 'CTO · Product Engineering' },
+    name: { ko: '김나연', en: 'Nayeon Kim' },
+    role: { ko: '사내이사 (CSO) · 디자인 및 전략 기획', en: 'CSO · Design & Strategy Planning' },
     affiliation: { ko: 'GIST 전기전자컴퓨터공학과', en: 'GIST · EECS' },
     group: 'leadership',
+    initials: 'NK',
+    emails: ['nayeon01030@gm.gist.ac.kr'],
+  },
+  {
+    name: { ko: '김연주', en: 'Yeonju Kim' },
+    role: { ko: '공동창업자 (Senior Planner) · 전략 및 기획', en: 'Co-founder · Senior Planner · Strategy & Planning' },
+    affiliation: { ko: 'GIST 전기전자컴퓨터공학과', en: 'GIST · EECS' },
+    group: 'leadership',
+    initials: 'YK',
+    emails: ['minuri34@gm.gist.ac.kr'],
+  },
+  {
+    name: { ko: '장석우', en: 'Seokwoo Jang' },
+    role: { ko: '동아리원 · 개발', en: 'Member · Engineering' },
+    affiliation: { ko: 'GIST 전기전자컴퓨터공학과', en: 'GIST · EECS' },
+    group: 'project',
     initials: 'SJ',
     emails: ['janghh1228@gm.gist.ac.kr'],
     links: [
@@ -335,16 +343,8 @@ export const team: TeamMember[] = [
     ],
   },
   {
-    name: { ko: '김나연', en: 'Nayeon Kim' },
-    role: { ko: 'Senior Designer', en: 'Senior Designer' },
-    affiliation: { ko: 'GIST 전기전자컴퓨터공학과', en: 'GIST · EECS' },
-    group: 'project',
-    initials: 'NK',
-    emails: ['nayeon01030@gm.gist.ac.kr'],
-  },
-  {
     name: { ko: '이서준', en: 'Seojun Lee' },
-    role: { ko: 'Research Director', en: 'Research Director' },
+    role: { ko: '동아리원 · 기획', en: 'Member · Planning' },
     affiliation: { ko: 'GIST 생명과학과', en: 'GIST · Life Sciences' },
     group: 'project',
     initials: 'SL',
@@ -353,7 +353,7 @@ export const team: TeamMember[] = [
   },
   {
     name: { ko: '김동혁', en: 'Donghyeok Kim' },
-    role: { ko: 'Lead Engineer', en: 'Lead Engineer' },
+    role: { ko: '동아리원 · 개발', en: 'Member · Engineering' },
     affiliation: { ko: 'KAIST 새내기과정학부', en: 'KAIST · Freshman Division' },
     group: 'project',
     initials: 'DK',
@@ -361,7 +361,7 @@ export const team: TeamMember[] = [
   },
   {
     name: { ko: '최정원', en: 'Jeongwon Choi' },
-    role: { ko: 'Engineer', en: 'Engineer' },
+    role: { ko: '동아리원 · 개발', en: 'Member · Engineering' },
     affiliation: { ko: 'GIST 도전탐색과정', en: 'GIST · Exploratory Program' },
     group: 'project',
     initials: 'JC',
@@ -374,7 +374,7 @@ export const team: TeamMember[] = [
   },
   {
     name: { ko: '류동헌', en: 'Dongheon Ryu' },
-    role: { ko: 'Junior Engineer', en: 'Junior Engineer' },
+    role: { ko: '동아리원 · 디자인', en: 'Member · Design' },
     affiliation: { ko: 'GIST AI학과', en: 'GIST · Department of AI' },
     group: 'project',
     initials: 'DR',
