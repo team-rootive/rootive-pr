@@ -78,7 +78,7 @@ export const copy = {
     },
     footer: {
       tagline: 'Beyond Greenery: We Root Your World',
-      address: '전남광주통합특별시 첨단과기로 123, 광주과학기술원 창업진흥센터 B동 102호',
+      address: '전남광주통합특별시 첨단과기로 123, 광주과학기술원 창업진흥센터 A동 102호',
       copyright: 'ROOTIVE. All rights reserved.',
       related: 'Links',
     },
@@ -160,7 +160,7 @@ export const copy = {
     footer: {
       tagline: 'Beyond Greenery: We Root Your World',
       address:
-        'Room 102, Building B, GIST Startup Promotion Center, 123 Cheomdangwagi-ro, Gwangju, Korea',
+        'Room 102, Building A, GIST Startup Promotion Center, 123 Cheomdangwagi-ro, Gwangju, Korea',
       copyright: 'ROOTIVE. All rights reserved.',
       related: 'Links',
     },
