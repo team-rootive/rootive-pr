@@ -19,7 +19,7 @@ export const copy = {
       eyebrow: 'TEAM ROOTIVE',
       title: '연구의 가능성을,\n삶에 닿는 제품으로.',
       description:
-        '루티브는 GIST와 KAIST의 학부생들이 함께하는 예비창업팀입니다. 연구에서 발견한 가능성을 실제 사용자의 문제를 해결하는 제품으로 확장합니다.',
+        '루티브는 GIST, KAIST, UC Berkeley의 학부생들이 함께하는 예비창업팀입니다. 연구에서 발견한 가능성을 실제 사용자의 문제를 해결하는 제품으로 확장합니다.',
       primaryCta: '프로젝트 살펴보기',
       secondaryCta: '팀 이야기',
       orbitLabel: 'Research → Product',
@@ -63,7 +63,7 @@ export const copy = {
     team: {
       label: 'THE TEAM',
       title: '서로 다른 전공,\n하나의 실행력.',
-      intro: 'GIST와 KAIST 학부생 10명이 기획, 개발, 연구, 운영을 연결합니다. 솔직하게 소통하고 빠르게 실험하며 함께 성장합니다.',
+      intro: 'GIST, KAIST, UC Berkeley 학부생 10명이 기획, 개발, 연구, 운영을 연결합니다. 솔직하게 소통하고 빠르게 실험하며 함께 성장합니다.',
       viewAll: '팀 전체 보기',
       members: '팀원',
       leadership: '리더십',
@@ -100,7 +100,7 @@ export const copy = {
       eyebrow: 'ROOTIVE · STUDENT-FOUNDED PRODUCT TEAM',
       title: 'From research potential\nto products that matter.',
       description:
-        'Rootive is a student-founded venture team from GIST and KAIST. We turn possibilities discovered through research into products that solve real problems for real people.',
+        'Rootive is a student-founded venture team from GIST, KAIST, and UC Berkeley. We turn possibilities discovered through research into products that solve real problems for real people.',
       primaryCta: 'Explore projects',
       secondaryCta: 'Meet the team',
       orbitLabel: 'Research → Product',
@@ -144,7 +144,7 @@ export const copy = {
     team: {
       label: 'THE TEAM',
       title: 'Different disciplines.\nOne bias toward action.',
-      intro: 'Ten undergraduate students from GIST and KAIST connect strategy, engineering, research, and operations. We communicate openly, test quickly, and grow together.',
+      intro: 'Ten undergraduate students from GIST, KAIST, and UC Berkeley connect strategy, engineering, research, and operations. We communicate openly, test quickly, and grow together.',
       viewAll: 'Meet everyone',
       members: 'members',
       leadership: 'Leadership',

@@ -21,11 +21,11 @@
 
 ### 한 줄 소개
 
-루티브는 GIST와 KAIST의 학부생들이 함께하며 연구의 가능성을 실제 사용자의 문제를 해결하는 제품으로 확장하는 예비창업팀입니다.
+루티브는 GIST, KAIST, UC Berkeley의 학부생들이 함께하며 연구의 가능성을 실제 사용자의 문제를 해결하는 제품으로 확장하는 예비창업팀입니다.
 
 ### 영문 소개
 
-Rootive is a student-founded venture team from GIST and KAIST. We turn possibilities discovered through research into products that solve real problems for real people.
+Rootive is a student-founded venture team from GIST, KAIST, and UC Berkeley. We turn possibilities discovered through research into products that solve real problems for real people.
 
 ### 상세 소개
 
@@ -74,7 +74,7 @@ Rootive is a student-founded venture team from GIST and KAIST. We turn possibili
 
 ## 4. 팀
 
-루티브는 GIST와 KAIST의 학부생 10명으로 구성되어 있습니다.
+루티브는 GIST, KAIST, UC Berkeley의 학부생 10명으로 구성되어 있습니다.
 
 ### 리더십
 
