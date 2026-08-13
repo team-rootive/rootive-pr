@@ -299,7 +299,7 @@ export const team: TeamMember[] = [
   {
     name: { ko: '최재원', en: 'Jaewon Choi' },
     role: { ko: '대표이사 (CEO)', en: 'CEO' },
-    affiliation: { ko: 'GIST 전기전자컴퓨터공학과', en: 'GIST · EECS' },
+    affiliation: { ko: 'UC Berkeley CDSS', en: 'UC Berkeley · CDSS' },
     group: 'leadership',
     initials: 'JC',
     emails: ['choi@rootive.org'],

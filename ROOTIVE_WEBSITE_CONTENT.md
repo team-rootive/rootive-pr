@@ -79,7 +79,7 @@ Rootive is a student-founded venture team from GIST and KAIST. We turn possibili
 ### 리더십
 
 - 임정훈 — 대표이사 (CEO) — `lim@rootive.org` — [GitHub](https://github.com/hoony6134) · [LinkedIn](https://linkedin.com/in/hoony6134) · [Website](https://me.scian.xyz/)
-- 최재원 — 대표이사 (CEO) — `choi@rootive.org` — [Website](https://charleschoi.info)
+- 최재원 — 대표이사 (CEO) — UC Berkeley CDSS — `choi@rootive.org` — [Website](https://charleschoi.info)
 - 김기용 — 사내이사 (COO), 재무 및 운영 기획 — `kim_giyong@rootive.org` — [GitHub](https://github.com/kky0824)
 - 김나연 — 사내이사 (CSO), 디자인 및 전략 기획 — `nayeon@rootive.org`
 - 장석우 — 사내이사 (CTO), 제품 개발 — `jang1228@rootive.org` — [GitHub](https://github.com/freaksemicolon) · [Website](https://www.jangsw.com/)
