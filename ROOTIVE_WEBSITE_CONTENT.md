@@ -98,9 +98,9 @@ Rootive is a student-founded venture team from GIST, KAIST, and UC Berkeley. We 
 ## 5. 링크
 
 - 대표 이메일: [board@rootive.org](mailto:board@rootive.org)
-- 프로젝트 GitHub: [freaksemicolon/MyGarden](https://github.com/freaksemicolon/MyGarden)
+- 공식 GitHub: [team-rootive](https://github.com/team-rootive)
 
-공식 팀 소셜 계정은 확인되지 않아 임의로 만들거나 연결하지 않았습니다.
+공식 LinkedIn 등 기타 팀 소셜 계정은 확인되지 않아 임의로 만들거나 연결하지 않았습니다.
 
 ## 6. 디자인 기준
 
@@ -140,6 +140,6 @@ Rootive is a student-founded venture team from GIST, KAIST, and UC Berkeley. We 
 - 팀원 공개용 프로필 사진
 - 마이리틀가든 앱 화면 및 실증 사진
 - 애프터스쿨·디지털 헬스케어 공식 소개 문구와 이미지
-- 공식 팀 GitHub 조직 및 LinkedIn 등 소셜 계정
+- 공식 LinkedIn 등 소셜 계정
 - Open Graph 공유 이미지
 - 개인정보 처리방침과 사업자 정보

@@ -386,7 +386,7 @@ export const team: TeamMember[] = [
 
 export const links = [
   { label: 'Email', href: 'mailto:board@rootive.org', type: 'email' as const },
-  { label: 'GitHub', href: 'https://github.com/freaksemicolon/MyGarden', type: 'github' as const },
+  { label: 'GitHub', href: 'https://github.com/team-rootive', type: 'github' as const },
 ]
 
 export function getLocalizedProject(slug: string) {
