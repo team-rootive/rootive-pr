@@ -302,7 +302,7 @@ export const team: TeamMember[] = [
     affiliation: { ko: 'GIST 전기전자컴퓨터공학과', en: 'GIST · EECS' },
     group: 'leadership',
     initials: 'JC',
-    emails: ['cso@rootive.org'],
+    emails: ['choi@rootive.org'],
     links: [{ label: 'Website', url: 'https://charleschoi.info', type: 'website' }],
   },
   {
@@ -323,24 +323,24 @@ export const team: TeamMember[] = [
     emails: ['nayeon@rootive.org'],
   },
   {
-    name: { ko: '김연주', en: 'Yeonju Kim' },
-    role: { ko: '공동창업자 (Senior Planner) · 전략 및 기획', en: 'Co-founder · Senior Planner · Strategy & Planning' },
+    name: { ko: '장석우', en: 'Seokwoo Jang' },
+    role: { ko: '사내이사 (CTO) · 제품 개발', en: 'CTO · Product Engineering' },
     affiliation: { ko: 'GIST 전기전자컴퓨터공학과', en: 'GIST · EECS' },
     group: 'leadership',
-    initials: 'YK',
-    emails: ['joo@rootive.org'],
-  },
-  {
-    name: { ko: '장석우', en: 'Seokwoo Jang' },
-    role: { ko: '동아리원 · 개발', en: 'Member · Engineering' },
-    affiliation: { ko: 'GIST 전기전자컴퓨터공학과', en: 'GIST · EECS' },
-    group: 'project',
     initials: 'SJ',
     emails: ['jang1228@rootive.org'],
     links: [
       { label: 'GitHub', url: 'https://github.com/freaksemicolon', type: 'github' },
       { label: 'Website', url: 'https://www.jangsw.com/', type: 'website' },
     ],
+  },
+  {
+    name: { ko: '김연주', en: 'Yeonju Kim' },
+    role: { ko: '공동창업자 (Project Manager) · 전략 및 기획', en: 'Co-founder · Project Manager · Strategy & Planning' },
+    affiliation: { ko: 'GIST 전기전자컴퓨터공학과', en: 'GIST · EECS' },
+    group: 'leadership',
+    initials: 'YK',
+    emails: ['joo@rootive.org'],
   },
   {
     name: { ko: '이서준', en: 'Seojun Lee' },
