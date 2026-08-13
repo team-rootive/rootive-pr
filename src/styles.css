@@ -339,12 +339,22 @@ summary:focus-visible {
   margin-inline: auto;
 }
 
-.hero-orbit {
+.hero-orbit,
+.hero-core {
   position: absolute;
-  inset: 12%;
-  border: 1px solid rgba(22, 56, 45, 0.34);
+  top: 50%;
+  left: 50%;
   border-radius: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.hero-orbit {
+  width: 76%;
+  aspect-ratio: 1;
+  border: 1px solid rgba(22, 56, 45, 0.34);
   animation: orbit-spin 28s linear infinite;
+  --dot-a: -58deg;
+  --dot-b: 98deg;
 }
 
 .hero-orbit::before,
@@ -360,29 +370,30 @@ summary:focus-visible {
 }
 
 .hero-orbit::before {
-  top: 10%;
-  left: 17%;
+  top: calc(50% + 50% * sin(var(--dot-a)) - 6px);
+  left: calc(50% + 50% * cos(var(--dot-a)) - 6px);
 }
 
 .hero-orbit::after {
-  right: 7%;
-  bottom: 24%;
+  top: calc(50% + 50% * sin(var(--dot-b)) - 6px);
+  left: calc(50% + 50% * cos(var(--dot-b)) - 6px);
   background: var(--lime);
 }
 
 .orbit-two {
-  inset: 25%;
+  width: 50%;
   border-style: dashed;
-  animation-direction: reverse;
+  animation-name: orbit-spin-reverse;
   animation-duration: 20s;
+  --dot-a: -92deg;
+  --dot-b: 148deg;
 }
 
 .hero-core {
-  position: absolute;
-  inset: 35%;
+  width: 30%;
+  aspect-ratio: 1;
   display: grid;
   place-items: center;
-  border-radius: 50%;
   border: 1px solid rgba(0, 92, 83, 0.16);
   background: rgba(255, 255, 255, 0.78);
   box-shadow: 0 34px 80px rgba(22, 56, 45, 0.24);
@@ -468,7 +479,13 @@ summary:focus-visible {
 }
 
 @keyframes orbit-spin {
-  to { transform: rotate(360deg); }
+  from { transform: translate(-50%, -50%) rotate(0deg); }
+  to { transform: translate(-50%, -50%) rotate(360deg); }
+}
+
+@keyframes orbit-spin-reverse {
+  from { transform: translate(-50%, -50%) rotate(0deg); }
+  to { transform: translate(-50%, -50%) rotate(-360deg); }
 }
 
 @keyframes scroll-line {
