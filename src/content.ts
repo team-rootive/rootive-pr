@@ -58,6 +58,7 @@ export const copy = {
         { value: 'Award', title: '1st NAMUHX Hackathon', body: 'SK인텔릭스 주관 해커톤 우수상' },
         { value: 'PoC', title: 'SK Intellix', body: 'A1 로봇 연계 공동 개발 협약' },
         { value: '2026', title: 'Tex-Corps', body: '공공기술 기반 시장연계 창업탐색 선정' },
+        { value: '본선', title: 'GRAVITY 2026', body: '4대 과학기술원 창업경진대회 본선 진출 및 지원사업 선정' },
       ],
     },
     team: {
@@ -139,6 +140,7 @@ export const copy = {
         { value: 'Award', title: '1st NAMUHX Hackathon', body: 'Excellence Award at the SK Intellix hackathon' },
         { value: 'PoC', title: 'SK Intellix', body: 'Joint development agreement for the A1 robot' },
         { value: '2026', title: 'Tex-Corps', body: 'Selected for the public-tech market discovery program' },
+        { value: 'Finals', title: 'GRAVITY 2026', body: 'Finalist and selected for support at the four science and technology institutes’ startup competition' },
       ],
     },
     team: {
@@ -212,8 +214,8 @@ export const projects: LocalizedProject[] = [
       en: ['Image-based species and condition analysis', 'Care guidance tailored to time and growth stage', 'Growth dashboard and conversational Q&A'],
     },
     highlights: {
-      ko: ['DMC Innovation Camp 2025 최우수상', '1st NAMUHX 해커톤 우수상', 'SK인텔릭스 A1 로봇 연계 PoC', '2026 Tex-Corps 선정'],
-      en: ['DMC Innovation Camp 2025 Excellence Award', '1st NAMUHX Hackathon Excellence Award', 'PoC with the SK Intellix A1 robot', 'Selected for 2026 Tex-Corps'],
+      ko: ['DMC Innovation Camp 2025 최우수상', '1st NAMUHX 해커톤 우수상', 'SK인텔릭스 A1 로봇 연계 PoC', '2026 Tex-Corps 선정', '2026 GRAVITY 본선 진출 및 지원사업 선정'],
+      en: ['DMC Innovation Camp 2025 Excellence Award', '1st NAMUHX Hackathon Excellence Award', 'PoC with the SK Intellix A1 robot', 'Selected for 2026 Tex-Corps', '2026 GRAVITY finalist and support-program selectee'],
     },
     tags: ['AI', 'Computer Vision', 'Home Gardening', 'Mobile'],
     externalUrl: 'https://github.com/freaksemicolon/MyGarden/releases/tag/v0.1',

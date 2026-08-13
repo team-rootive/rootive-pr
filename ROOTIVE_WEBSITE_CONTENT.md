@@ -54,6 +54,7 @@ Rootive is a student-founded venture team from GIST, KAIST, and UC Berkeley. We 
   - SK인텔릭스 1st NAMUHX 해커톤 우수상
   - SK인텔릭스 A1 로봇 연계 공동 개발 PoC
   - 2026 Tex-Corps 선정
+  - 2026 GRAVITY 4대 과학기술원 창업경진대회 본선 진출 및 지원사업 선정
 - 공개 링크: [MyGarden GitHub](https://github.com/freaksemicolon/MyGarden/releases/tag/v0.1)
 
 ### 애프터스쿨 / Afterschool
