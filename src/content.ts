@@ -289,7 +289,7 @@ export const team: TeamMember[] = [
     affiliation: { ko: 'GIST 전기전자컴퓨터공학과', en: 'GIST · EECS' },
     group: 'leadership',
     initials: 'JL',
-    emails: ['coo@rootive.org'],
+    emails: ['lim@rootive.org'],
     links: [
       { label: 'GitHub', url: 'https://github.com/hoony6134', type: 'github' },
       { label: 'LinkedIn', url: 'https://linkedin.com/in/hoony6134', type: 'linkedin' },
@@ -302,7 +302,7 @@ export const team: TeamMember[] = [
     affiliation: { ko: 'GIST 전기전자컴퓨터공학과', en: 'GIST · EECS' },
     group: 'leadership',
     initials: 'JC',
-    emails: ['choijw1202@gm.gist.ac.kr'],
+    emails: ['cso@rootive.org'],
     links: [{ label: 'Website', url: 'https://charleschoi.info', type: 'website' }],
   },
   {
@@ -311,7 +311,7 @@ export const team: TeamMember[] = [
     affiliation: { ko: 'GIST AI학과', en: 'GIST · Department of AI' },
     group: 'leadership',
     initials: 'GK',
-    emails: ['kim_giyong@gm.gist.ac.kr'],
+    emails: ['kim_giyong@rootive.org'],
     links: [{ label: 'GitHub', url: 'https://github.com/kky0824', type: 'github' }],
   },
   {
@@ -320,7 +320,7 @@ export const team: TeamMember[] = [
     affiliation: { ko: 'GIST 전기전자컴퓨터공학과', en: 'GIST · EECS' },
     group: 'leadership',
     initials: 'NK',
-    emails: ['nayeon01030@gm.gist.ac.kr'],
+    emails: ['nayeon@rootive.org'],
   },
   {
     name: { ko: '김연주', en: 'Yeonju Kim' },
@@ -328,7 +328,7 @@ export const team: TeamMember[] = [
     affiliation: { ko: 'GIST 전기전자컴퓨터공학과', en: 'GIST · EECS' },
     group: 'leadership',
     initials: 'YK',
-    emails: ['minuri34@gm.gist.ac.kr'],
+    emails: ['joo@rootive.org'],
   },
   {
     name: { ko: '장석우', en: 'Seokwoo Jang' },
@@ -336,7 +336,7 @@ export const team: TeamMember[] = [
     affiliation: { ko: 'GIST 전기전자컴퓨터공학과', en: 'GIST · EECS' },
     group: 'project',
     initials: 'SJ',
-    emails: ['janghh1228@gm.gist.ac.kr'],
+    emails: ['jang1228@rootive.org'],
     links: [
       { label: 'GitHub', url: 'https://github.com/freaksemicolon', type: 'github' },
       { label: 'Website', url: 'https://www.jangsw.com/', type: 'website' },
@@ -348,7 +348,7 @@ export const team: TeamMember[] = [
     affiliation: { ko: 'GIST 생명과학과', en: 'GIST · Life Sciences' },
     group: 'project',
     initials: 'SL',
-    emails: ['seojunlee22@gm.gist.ac.kr'],
+    emails: ['chamadobronx@rootive.org'],
     links: [{ label: 'GitHub', url: 'https://github.com/chamadobronx', type: 'github' }],
   },
   {
@@ -357,7 +357,7 @@ export const team: TeamMember[] = [
     affiliation: { ko: 'KAIST 새내기과정학부', en: 'KAIST · Freshman Division' },
     group: 'project',
     initials: 'DK',
-    emails: ['donghyeok8649@kaist.ac.kr'],
+    emails: ['danielkim8649@rootive.org'],
   },
   {
     name: { ko: '최정원', en: 'Jeongwon Choi' },
@@ -378,7 +378,7 @@ export const team: TeamMember[] = [
     affiliation: { ko: 'GIST AI학과', en: 'GIST · Department of AI' },
     group: 'project',
     initials: 'DR',
-    emails: ['ryudong888@gm.gist.ac.kr'],
+    emails: ['design_ryu@rootive.org'],
   },
 ]
 

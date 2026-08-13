@@ -78,19 +78,19 @@ Rootive is a student-founded venture team from GIST and KAIST. We turn possibili
 
 ### 리더십
 
-- 임정훈 — 대표이사 (CEO) — `coo@rootive.org` — [GitHub](https://github.com/hoony6134) · [LinkedIn](https://linkedin.com/in/hoony6134) · [Website](https://me.scian.xyz/)
-- 최재원 — 대표이사 (CEO) — `choijw1202@gm.gist.ac.kr` — [Website](https://charleschoi.info)
-- 김기용 — 사내이사 (COO), 재무 및 운영 기획 — `kim_giyong@gm.gist.ac.kr` — [GitHub](https://github.com/kky0824)
-- 김나연 — 사내이사 (CSO), 디자인 및 전략 기획 — `nayeon01030@gm.gist.ac.kr`
-- 김연주 — 공동창업자 (Senior Planner), 전략 및 기획 — `minuri34@gm.gist.ac.kr`
+- 임정훈 — 대표이사 (CEO) — `lim@rootive.org` — [GitHub](https://github.com/hoony6134) · [LinkedIn](https://linkedin.com/in/hoony6134) · [Website](https://me.scian.xyz/)
+- 최재원 — 대표이사 (CEO) — `cso@rootive.org` — [Website](https://charleschoi.info)
+- 김기용 — 사내이사 (COO), 재무 및 운영 기획 — `kim_giyong@rootive.org` — [GitHub](https://github.com/kky0824)
+- 김나연 — 사내이사 (CSO), 디자인 및 전략 기획 — `nayeon@rootive.org`
+- 김연주 — 공동창업자 (Senior Planner), 전략 및 기획 — `joo@rootive.org`
 
 ### Club Rootive
 
-- 장석우 — 동아리원, 개발 — `janghh1228@gm.gist.ac.kr` — [GitHub](https://github.com/freaksemicolon) · [Website](https://www.jangsw.com/)
-- 이서준 — 동아리원, 기획 — `seojunlee22@gm.gist.ac.kr` — [GitHub](https://github.com/chamadobronx)
-- 김동혁 — 동아리원, 개발 — `donghyeok8649@kaist.ac.kr`
+- 장석우 — 동아리원, 개발 — `jang1228@rootive.org` — [GitHub](https://github.com/freaksemicolon) · [Website](https://www.jangsw.com/)
+- 이서준 — 동아리원, 기획 — `chamadobronx@rootive.org` — [GitHub](https://github.com/chamadobronx)
+- 김동혁 — 동아리원, 개발 — `danielkim8649@rootive.org`
 - 최정원 — 동아리원, 개발 — `jeongwonchoi@gm.gist.ac.kr` — [GitHub](https://github.com/cgarden0711) · [LinkedIn](https://www.linkedin.com/in/jeongwon-choi-3479b93b0) · [Website](https://motivors.com/)
-- 류동헌 — 동아리원, 디자인 — `ryudong888@gm.gist.ac.kr`
+- 류동헌 — 동아리원, 디자인 — `design_ryu@rootive.org`
 
 직책이나 역할이 공식 자료에서 확인되지 않은 팀원은 임의로 세부 직책을 부여하지 않았습니다.
 
