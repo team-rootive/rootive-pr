@@ -160,7 +160,7 @@ export const copy = {
     footer: {
       tagline: 'Beyond Greenery: We Root Your World',
       address:
-        'Room 102, Building A, GIST Startup Promotion Center, 123 Cheomdangwagi-ro, Gwangju, Korea',
+        'Room 102, Building A, Center for the Promotion of Entrepreneurship, GIST, 123 Cheomdangwagi-ro, Gwangju, Korea',
       copyright: 'ROOTIVE. All rights reserved.',
       related: 'Links',
     },
