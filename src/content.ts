@@ -310,7 +310,7 @@ export const team: TeamMember[] = [
   {
     name: { ko: '김기용', en: 'Giyong Kim' },
     role: { ko: '사내이사 (COO) · 재무 및 운영 기획', en: 'COO · Finance & Operations Planning' },
-    affiliation: { ko: 'GIST AI학과', en: 'GIST · Department of AI' },
+    affiliation: { ko: 'GIST AI학과', en: 'GIST · AI' },
     group: 'leadership',
     initials: 'GK',
     emails: ['giyong@rootive.org'],
@@ -364,7 +364,7 @@ export const team: TeamMember[] = [
   {
     name: { ko: '최정원', en: 'Jeongwon Choi' },
     role: { ko: '동아리원 · 개발', en: 'Member · Engineering' },
-    affiliation: { ko: 'GIST 도전탐색과정', en: 'GIST · Exploratory Program' },
+    affiliation: { ko: 'GIST 도전탐색과정', en: 'GIST · Challenge & Exploration Program' },
     group: 'project',
     initials: 'JC',
     emails: ['jeongwonchoi@gm.gist.ac.kr'],
@@ -377,7 +377,7 @@ export const team: TeamMember[] = [
   {
     name: { ko: '류동헌', en: 'Dongheon Ryu' },
     role: { ko: '동아리원 · 디자인', en: 'Member · Design' },
-    affiliation: { ko: 'GIST AI학과', en: 'GIST · Department of AI' },
+    affiliation: { ko: 'GIST AI학과', en: 'GIST · AI' },
     group: 'project',
     initials: 'DR',
     emails: ['design_ryu@rootive.org'],
