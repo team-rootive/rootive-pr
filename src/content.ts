@@ -313,7 +313,7 @@ export const team: TeamMember[] = [
     affiliation: { ko: 'GIST AI학과', en: 'GIST · Department of AI' },
     group: 'leadership',
     initials: 'GK',
-    emails: ['kim_giyong@rootive.org'],
+    emails: ['giyong@rootive.org'],
     links: [{ label: 'GitHub', url: 'https://github.com/kky0824', type: 'github' }],
   },
   {
@@ -338,7 +338,7 @@ export const team: TeamMember[] = [
   },
   {
     name: { ko: '김연주', en: 'Yeonju Kim' },
-    role: { ko: '공동창업자 (Project Manager) · 전략 및 기획', en: 'Co-founder · Project Manager · Strategy & Planning' },
+    role: { ko: '사내이사 (CPO) · 전략 및 기획', en: 'CPO · Strategy & Planning' },
     affiliation: { ko: 'GIST 전기전자컴퓨터공학과', en: 'GIST · EECS' },
     group: 'leadership',
     initials: 'YK',
