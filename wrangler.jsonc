@@ -1,0 +1,19 @@
+{
+  // Nitro(cloudflare_module 프리셋)가 이 파일을 읽어
+  // .output/server/wrangler.json 을 생성합니다.
+  // main / assets / compatibility_flags 는 Nitro가 자동으로 채웁니다.
+  "name": "rootive-pr",
+  "account_id": "63b158ca7733f25583d6565eff337da3",
+
+  // 사용자 도메인. custom_domain: true 면 Cloudflare가
+  // DNS 레코드와 인증서를 자동으로 관리합니다.
+  "routes": [
+    { "pattern": "rootive.org", "custom_domain": true },
+    { "pattern": "www.rootive.org", "custom_domain": true }
+  ],
+
+  // *.workers.dev 는 끕니다 (검색엔진 중복 색인 방지).
+  // 대신 배포마다 생기는 미리보기 URL 은 켜둡니다.
+  "workers_dev": false,
+  "preview_urls": true
+}
